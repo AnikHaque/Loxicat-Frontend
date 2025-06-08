@@ -1,0 +1,13 @@
+{
+  "bg1": "images/dot-map.png",
+  "bg2": "images/person.png",
+  "bg3": "images/pattern3.png",
+  "title": "Best Technological Company",
+  "heading": "Why Choose Us?",
+  "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt rem sunt odit, cupiditate, ratione, praesentium minima, obcaecati eos vel voluptatem ipsa necessitatibus eius. Repellat.",
+  "services": [
+    { "name": "xyz service", "percentage": 95 },
+    { "name": "xyz service", "percentage": 96 },
+    { "name": "xyz service", "percentage": 90 }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/SQVb0HNv/Group-25.png",
+    "title": "Security System",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting indstry. lpsum has been the"
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/9XLKgTL3/Group-26.png",
+    "title": "Integrated Solution",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting indstry. lpsum has been the"
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/3xsPCTnd/Group-27.png",
+    "title": "LED Display System",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting indstry. lpsum has been the"
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/BnLrK65r/Group-28.png",
+    "title": "Fire System",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting indstry. lpsum has been the"
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/286RCT18/Group-29.png",
+    "title": "Safety System",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting indstry. lpsum has been the"
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/tCM0JP6d/Group-30.png",
+    "title": "Queue Management",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting indstry. lpsum has been the"
+  }
+]

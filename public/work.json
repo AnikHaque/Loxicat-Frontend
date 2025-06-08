@@ -1,0 +1,56 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "name": "Construction Works",
+        "images":"https://webextheme.com/html/loxicat/images/service/service-details4.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Industrial Service"
+      },
+      {
+        "id": 3,
+        "name": "Chemical Research"
+      },
+      {
+        "id": 4,
+        "name": "Material Supply"
+      },
+      {
+        "id": 5,
+        "name": "Mechanical Works"
+      },
+      {
+        "id": 6,
+        "name": "Welding Services"
+      }
+    ],
+  
+    "images": [
+      {
+        "id": 1,
+        "image": "images/construction1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "images/construction2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "images/construction3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "images/construction4.jpg"
+      },
+      {
+        "id": 5,
+        "image": "images/construction5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "images/construction6.jpg"
+      }
+    ]
+  }

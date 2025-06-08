@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Tech Entrepreneur Credits Paper For Success",
+        "description": "There are many variations of passages of Lorem that available but majority have suffered dumm alteration",
+        "date_of_publication": " May 13, 2023",
+        "author":"Admin",
+        "author_image": "https://webextheme.com/html/loxicat/images/testimonials/testimonial-img1.jpg",
+        "image": "https://webextheme.com/html/loxicat/images/news/01.jpg"
+        
+      },
+      {
+        "id": 2,
+        "title": "Tech Entrepreneur Credits Paper For Success",
+        "description": "There are many variations of passages of Lorem that available but majority have suffered dumm alteration" ,
+        "date_of_publication": "May 10, 2023",
+        "author":"Admin",
+        "author_image": "https://webextheme.com/html/loxicat/images/testimonials/testimonial-img1.jpg",
+        "image": "https://webextheme.com/html/loxicat/images/news/01.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Tech Entrepreneur Credits Paper For Success",
+        "description": "There are many variations of passages of Lorem that available but majority have suffered dumm alteration" ,
+        "date_of_publication": "May 10, 2023",
+        "author":"Admin",
+        "author_image": "https://webextheme.com/html/loxicat/images/testimonials/testimonial-img1.jpg",
+        "image": "https://webextheme.com/html/loxicat/images/news/01.jpg"
+      }
+]
